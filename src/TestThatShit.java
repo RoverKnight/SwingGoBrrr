@@ -13,7 +13,7 @@ public class TestThatShit {
             drawOnWalter.setVisible(true);
         });
 
-        while (true) {}
+        while (true) {} // keeps the program from just shutting off because test is finished
     }
 
     @Test
